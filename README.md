@@ -54,21 +54,23 @@ $ cd gomerce_backend
 > **Step #2** - create virtual environment using python3 and activate it (keep it outside our project directory)
 
 ```bash
-$ # Virtualenv modules installation (Unix based systems)
+## Virtualenv modules installation (Unix based systems)
 $ virtualenv env
 $ source env/bin/activate
 $
-$ # Virtualenv modules installation (Windows based systems)
-$ # virtualenv env
-$ # .\env\Scripts\activate
+
+##Virtualenv modules installation (Windows based systems starting from python 3)
+Create a virtual environment by running `python -m venv env`
+Activate the virtual environment by running: `. env/scripts/activate`
 ```
 
 <br />
 
-> **Step #3** - Install dependencies in virtualenv
+> **Step #3** - Install dependencies in virtual env
 
 ```bash
-$ pip install -r requirements.txt
+$ pip install -r requirements.txt <-- ### Mac users
+Install the dependencies by running `pip install -r requirements.txt` <-- ### Windows users
 ```
 
 <br />

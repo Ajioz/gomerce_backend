@@ -1,7 +1,7 @@
 {
     "info": {
         "_postman_id": "9f7e4e29-9c75-44c7-9bc6-ccec8eefed4f",
-        "name": "api-server-nodejs",
+        "name": "gomerce api-flask",
         "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
     },
     "item": [{
