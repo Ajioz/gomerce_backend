@@ -1,6 +1,6 @@
 # MIT License
 
-Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
+Copyright (c) 2022 - present [gommerce](https://github.com/Ajioz/gomerce_backend.git)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,4 +23,3 @@ SOFTWARE.
 <br />
 
 ---
-For more information regarding licensing, please contact AppSeed < *support @ appseed.us* >
