@@ -60,8 +60,8 @@ $ source env/bin/activate
 $
 
 ##Virtualenv modules installation (Windows based systems starting from python 3)
-Create a virtual environment by running `python -m venv env`
-Activate the virtual environment by running: `. env/scripts/activate`
+Create a virtual environment by running "python -m venv env"
+Activate the virtual environment by running: ". env/scripts/activate"
 ```
 
 <br />
@@ -70,7 +70,7 @@ Activate the virtual environment by running: `. env/scripts/activate`
 
 ```bash
 $ pip install -r requirements.txt <-- ### Mac users
-Install the dependencies by running `pip install -r requirements.txt` <-- ### Windows users
+Install the dependencies by running "pip install -r requirements.txt" <-- ### Windows users
 ```
 
 <br />
@@ -135,9 +135,9 @@ POST api/users/register
 Content-Type: application/json
 
 {
-    "username":"test",
-    "password":"pass",
-    "email":"test@appseed.us"
+    "username":"yourUsername",
+    "password":"yourPassword",
+    "email":"yourEmail"
 }
 ```
 
@@ -150,8 +150,8 @@ POST /api/users/login
 Content-Type: application/json
 
 {
-    "password":"pass",
-    "email":"test@appseed.us"
+    "password":"yourPassword",
+    "email":"yourEmail"
 }
 ```
 
