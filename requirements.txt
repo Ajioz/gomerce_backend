@@ -16,6 +16,7 @@ python-dotenv
 setproctitle
 six
 
+autopep8
 isort
 pytest
 pip-upgrader

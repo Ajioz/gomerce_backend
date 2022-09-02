@@ -1,0 +1,340 @@
+INFO: 01/09/22 08:48:27         pid:4802 module:_internal [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3303
+ * Running on http://192.168.43.48:3303
+INFO: 01/09/22 08:48:27         pid:4802 module:_internal [33mPress CTRL+C to quit[0m
+INFO: 01/09/22 08:48:27         pid:4802 module:_internal  * Restarting with stat
+WARNING: 01/09/22 08:48:27         pid:4804 module:_internal  * Debugger is active!
+INFO: 01/09/22 08:48:27         pid:4804 module:_internal  * Debugger PIN: 336-012-120
+INFO: 01/09/22 08:50:51         pid:4804 module:_internal 127.0.0.1 - - [01/Sep/2022 08:50:51] "[33mGET / HTTP/1.1[0m" 404 -
+INFO: 01/09/22 08:51:04         pid:4804 module:_internal 127.0.0.1 - - [01/Sep/2022 08:51:04] "[33mGET / HTTP/1.1[0m" 404 -
+INFO: 01/09/22 08:52:36         pid:6223 module:_internal [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3303
+ * Running on http://192.168.43.48:3303
+INFO: 01/09/22 08:52:36         pid:6223 module:_internal [33mPress CTRL+C to quit[0m
+INFO: 01/09/22 08:52:36         pid:6223 module:_internal  * Restarting with stat
+WARNING: 01/09/22 08:52:36         pid:6225 module:_internal  * Debugger is active!
+INFO: 01/09/22 08:52:36         pid:6225 module:_internal  * Debugger PIN: 336-012-120
+INFO: 01/09/22 08:54:44         pid:6225 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/server.py', reloading
+INFO: 01/09/22 08:54:44         pid:6223 module:_internal  * Restarting with stat
+WARNING: 01/09/22 08:54:44         pid:6941 module:_internal  * Debugger is active!
+INFO: 01/09/22 08:54:44         pid:6941 module:_internal  * Debugger PIN: 336-012-120
+INFO: 01/09/22 08:54:50         pid:6979 module:_internal [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3303
+ * Running on http://192.168.43.48:3303
+INFO: 01/09/22 08:54:50         pid:6979 module:_internal [33mPress CTRL+C to quit[0m
+INFO: 01/09/22 08:54:50         pid:6979 module:_internal  * Restarting with stat
+WARNING: 01/09/22 08:54:50         pid:6981 module:_internal  * Debugger is active!
+INFO: 01/09/22 08:54:50         pid:6981 module:_internal  * Debugger PIN: 336-012-120
+INFO: 01/09/22 08:54:57         pid:6981 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/server.py', reloading
+INFO: 01/09/22 08:54:57         pid:6979 module:_internal  * Restarting with stat
+WARNING: 01/09/22 08:54:58         pid:7020 module:_internal  * Debugger is active!
+INFO: 01/09/22 08:54:58         pid:7020 module:_internal  * Debugger PIN: 336-012-120
+INFO: 01/09/22 08:55:25         pid:7020 module:_internal 127.0.0.1 - - [01/Sep/2022 08:55:25] "[33mGET / HTTP/1.1[0m" 404 -
+INFO: 01/09/22 08:56:08         pid:7219 module:_internal [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3303
+ * Running on http://192.168.43.48:3303
+INFO: 01/09/22 08:56:08         pid:7219 module:_internal [33mPress CTRL+C to quit[0m
+INFO: 01/09/22 08:56:08         pid:7219 module:_internal  * Restarting with stat
+WARNING: 01/09/22 08:56:09         pid:7222 module:_internal  * Debugger is active!
+INFO: 01/09/22 08:56:09         pid:7222 module:_internal  * Debugger PIN: 336-012-120
+INFO: 01/09/22 09:18:38         pid:11266 module:_internal [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO: 01/09/22 09:18:38         pid:11266 module:_internal [33mPress CTRL+C to quit[0m
+INFO: 01/09/22 09:19:27         pid:11449 module:_internal [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3303
+ * Running on http://192.168.43.48:3303
+INFO: 01/09/22 09:19:27         pid:11449 module:_internal [33mPress CTRL+C to quit[0m
+INFO: 01/09/22 09:19:27         pid:11449 module:_internal  * Restarting with stat
+WARNING: 01/09/22 09:19:28         pid:11453 module:_internal  * Debugger is active!
+INFO: 01/09/22 09:19:28         pid:11453 module:_internal  * Debugger PIN: 336-012-120
+INFO: 01/09/22 09:19:42         pid:11453 module:_internal 127.0.0.1 - - [01/Sep/2022 09:19:42] "[33mGET / HTTP/1.1[0m" 404 -
+INFO: 01/09/22 09:19:55         pid:11453 module:_internal 127.0.0.1 - - [01/Sep/2022 09:19:55] "[33mGET / HTTP/1.1[0m" 404 -
+INFO: 01/09/22 09:31:34         pid:11453 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/routes/user.py', reloading
+INFO: 01/09/22 09:31:34         pid:11449 module:_internal  * Restarting with stat
+WARNING: 01/09/22 09:31:35         pid:13251 module:_internal  * Debugger is active!
+INFO: 01/09/22 09:31:35         pid:13251 module:_internal  * Debugger PIN: 336-012-120
+INFO: 01/09/22 09:31:38         pid:13251 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/routes/user.py', reloading
+INFO: 01/09/22 09:31:38         pid:11449 module:_internal  * Restarting with stat
+WARNING: 01/09/22 09:31:38         pid:13267 module:_internal  * Debugger is active!
+INFO: 01/09/22 09:31:38         pid:13267 module:_internal  * Debugger PIN: 336-012-120
+INFO: 01/09/22 09:32:06         pid:13267 module:_internal 127.0.0.1 - - [01/Sep/2022 09:32:06] "[35m[1mGET /user/last_name/first_name HTTP/1.1[0m" 500 -
+INFO: 01/09/22 09:37:32         pid:13267 module:_internal 127.0.0.1 - - [01/Sep/2022 09:37:32] "[31m[1mPOST /user/Ogoo/Umeh HTTP/1.1[0m" 400 -
+INFO: 01/09/22 09:38:25         pid:13267 module:_internal 127.0.0.1 - - [01/Sep/2022 09:38:25] "[31m[1mPOST /user/Ogoo/Umeh HTTP/1.1[0m" 400 -
+INFO: 01/09/22 09:38:45         pid:13267 module:_internal 127.0.0.1 - - [01/Sep/2022 09:38:45] "POST /user/Ogoo/Umeh HTTP/1.1" 200 -
+INFO: 01/09/22 09:38:59         pid:13267 module:_internal 127.0.0.1 - - [01/Sep/2022 09:38:59] "[33mPOST /user HTTP/1.1[0m" 404 -
+INFO: 01/09/22 09:40:29         pid:13267 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/repositories/user.py', reloading
+INFO: 01/09/22 09:40:29         pid:11449 module:_internal  * Restarting with stat
+WARNING: 01/09/22 09:40:30         pid:14699 module:_internal  * Debugger is active!
+INFO: 01/09/22 09:40:30         pid:14699 module:_internal  * Debugger PIN: 336-012-120
+INFO: 01/09/22 09:40:46         pid:14765 module:_internal [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3303
+ * Running on http://192.168.43.48:3303
+INFO: 01/09/22 09:40:46         pid:14765 module:_internal [33mPress CTRL+C to quit[0m
+INFO: 01/09/22 09:40:46         pid:14765 module:_internal  * Restarting with stat
+WARNING: 01/09/22 09:40:46         pid:14767 module:_internal  * Debugger is active!
+INFO: 01/09/22 09:40:46         pid:14767 module:_internal  * Debugger PIN: 336-012-120
+INFO: 01/09/22 09:40:50         pid:14767 module:_internal 127.0.0.1 - - [01/Sep/2022 09:40:50] "[33mPOST /user HTTP/1.1[0m" 404 -
+INFO: 01/09/22 09:41:07         pid:14767 module:_internal 127.0.0.1 - - [01/Sep/2022 09:41:07] "[33mPOST /user/ HTTP/1.1[0m" 404 -
+INFO: 01/09/22 09:41:36         pid:14767 module:_internal 127.0.0.1 - - [01/Sep/2022 09:41:36] "POST /user/Chika/Odoh HTTP/1.1" 200 -
+INFO: 01/09/22 09:43:14         pid:14767 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/models/abc.py', reloading
+INFO: 01/09/22 09:43:14         pid:14765 module:_internal  * Restarting with stat
+WARNING: 01/09/22 09:43:15         pid:15202 module:_internal  * Debugger is active!
+INFO: 01/09/22 09:43:15         pid:15202 module:_internal  * Debugger PIN: 336-012-120
+INFO: 01/09/22 09:43:19         pid:15202 module:_internal 127.0.0.1 - - [01/Sep/2022 09:43:19] "[35m[1mPOST /user/Chika/Odoh HTTP/1.1[0m" 500 -
+INFO: 01/09/22 09:44:21         pid:15202 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/models/abc.py', reloading
+INFO: 01/09/22 09:44:21         pid:14765 module:_internal  * Restarting with stat
+WARNING: 01/09/22 09:44:21         pid:15391 module:_internal  * Debugger is active!
+INFO: 01/09/22 09:44:21         pid:15391 module:_internal  * Debugger PIN: 336-012-120
+INFO: 01/09/22 09:47:53         pid:15391 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/repositories/user.py', reloading
+INFO: 01/09/22 09:47:53         pid:14765 module:_internal  * Restarting with stat
+WARNING: 01/09/22 09:47:54         pid:15992 module:_internal  * Debugger is active!
+INFO: 01/09/22 09:47:54         pid:15992 module:_internal  * Debugger PIN: 336-012-120
+INFO: 01/09/22 09:50:04         pid:15992 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/resources/user.py', reloading
+INFO: 01/09/22 09:50:04         pid:14765 module:_internal  * Restarting with stat
+WARNING: 01/09/22 09:50:05         pid:16327 module:_internal  * Debugger is active!
+INFO: 01/09/22 09:50:05         pid:16327 module:_internal  * Debugger PIN: 336-012-120
+INFO: 01/09/22 09:50:40         pid:16443 module:_internal [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3303
+ * Running on http://192.168.43.48:3303
+INFO: 01/09/22 09:50:40         pid:16443 module:_internal [33mPress CTRL+C to quit[0m
+INFO: 01/09/22 09:50:40         pid:16443 module:_internal  * Restarting with stat
+WARNING: 01/09/22 09:50:40         pid:16444 module:_internal  * Debugger is active!
+INFO: 01/09/22 09:50:40         pid:16444 module:_internal  * Debugger PIN: 336-012-120
+INFO: 01/09/22 09:50:47         pid:16444 module:_internal 127.0.0.1 - - [01/Sep/2022 09:50:47] "GET /user/Chika/Odoh HTTP/1.1" 200 -
+INFO: 01/09/22 09:51:01         pid:16444 module:_internal 127.0.0.1 - - [01/Sep/2022 09:51:01] "[33mGET /user/ HTTP/1.1[0m" 404 -
+INFO: 01/09/22 09:51:45         pid:16444 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/routes/user.py', reloading
+INFO: 01/09/22 09:51:45         pid:16443 module:_internal  * Restarting with stat
+INFO: 01/09/22 09:59:34         pid:17979 module:_internal [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3303
+ * Running on http://192.168.43.48:3303
+INFO: 01/09/22 09:59:34         pid:17979 module:_internal [33mPress CTRL+C to quit[0m
+INFO: 01/09/22 09:59:34         pid:17979 module:_internal  * Restarting with stat
+WARNING: 01/09/22 09:59:34         pid:17981 module:_internal  * Debugger is active!
+INFO: 01/09/22 09:59:34         pid:17981 module:_internal  * Debugger PIN: 336-012-120
+INFO: 01/09/22 09:59:37         pid:17981 module:_internal 127.0.0.1 - - [01/Sep/2022 09:59:37] "[33mGET /user/ HTTP/1.1[0m" 404 -
+INFO: 01/09/22 09:59:43         pid:17981 module:_internal 127.0.0.1 - - [01/Sep/2022 09:59:43] "[35m[1mGET /user HTTP/1.1[0m" 500 -
+INFO: 02/09/22 12:17:19         pid:17981 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/routes/user.py', reloading
+INFO: 02/09/22 12:17:20         pid:17979 module:_internal  * Restarting with stat
+INFO: 02/09/22 12:28:29         pid:54976 module:_internal [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3303
+ * Running on http://192.168.43.48:3303
+INFO: 02/09/22 12:28:29         pid:54976 module:_internal [33mPress CTRL+C to quit[0m
+INFO: 02/09/22 12:28:29         pid:54976 module:_internal  * Restarting with stat
+WARNING: 02/09/22 12:28:30         pid:54977 module:_internal  * Debugger is active!
+INFO: 02/09/22 12:28:30         pid:54977 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 12:28:33         pid:54977 module:_internal 127.0.0.1 - - [02/Sep/2022 12:28:33] "[35m[1mGET /user HTTP/1.1[0m" 500 -
+INFO: 02/09/22 12:29:10         pid:54977 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/resources/user.py', reloading
+INFO: 02/09/22 12:29:10         pid:54976 module:_internal  * Restarting with stat
+WARNING: 02/09/22 12:29:11         pid:55102 module:_internal  * Debugger is active!
+INFO: 02/09/22 12:29:11         pid:55102 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 12:29:15         pid:55102 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/resources/user.py', reloading
+INFO: 02/09/22 12:29:15         pid:54976 module:_internal  * Restarting with stat
+WARNING: 02/09/22 12:29:16         pid:55123 module:_internal  * Debugger is active!
+INFO: 02/09/22 12:29:16         pid:55123 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 12:29:19         pid:55123 module:_internal 127.0.0.1 - - [02/Sep/2022 12:29:19] "[35m[1mGET /user HTTP/1.1[0m" 500 -
+INFO: 02/09/22 12:29:56         pid:55123 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/resources/user.py', reloading
+INFO: 02/09/22 12:29:56         pid:54976 module:_internal  * Restarting with stat
+WARNING: 02/09/22 12:29:57         pid:55239 module:_internal  * Debugger is active!
+INFO: 02/09/22 12:29:57         pid:55239 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 12:31:12         pid:55239 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/resources/user.py', reloading
+INFO: 02/09/22 12:31:12         pid:54976 module:_internal  * Restarting with stat
+WARNING: 02/09/22 12:31:13         pid:55448 module:_internal  * Debugger is active!
+INFO: 02/09/22 12:31:13         pid:55448 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 12:31:41         pid:55448 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/repositories/user.py', reloading
+INFO: 02/09/22 12:31:41         pid:54976 module:_internal  * Restarting with stat
+WARNING: 02/09/22 12:31:42         pid:55525 module:_internal  * Debugger is active!
+INFO: 02/09/22 12:31:42         pid:55525 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 12:31:49         pid:55577 module:_internal [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3303
+ * Running on http://192.168.43.48:3303
+INFO: 02/09/22 12:31:49         pid:55577 module:_internal [33mPress CTRL+C to quit[0m
+INFO: 02/09/22 12:31:49         pid:55577 module:_internal  * Restarting with stat
+WARNING: 02/09/22 12:31:49         pid:55579 module:_internal  * Debugger is active!
+INFO: 02/09/22 12:31:49         pid:55579 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 12:31:52         pid:55579 module:_internal 127.0.0.1 - - [02/Sep/2022 12:31:52] "[35m[1mGET /user HTTP/1.1[0m" 500 -
+INFO: 02/09/22 12:31:58         pid:55579 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/repositories/user.py', reloading
+INFO: 02/09/22 12:31:58         pid:55577 module:_internal  * Restarting with stat
+WARNING: 02/09/22 12:31:59         pid:55621 module:_internal  * Debugger is active!
+INFO: 02/09/22 12:31:59         pid:55621 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 12:32:01         pid:55621 module:_internal 127.0.0.1 - - [02/Sep/2022 12:32:01] "GET /user HTTP/1.1" 200 -
+INFO: 02/09/22 12:32:12         pid:55677 module:_internal [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3303
+ * Running on http://192.168.43.48:3303
+INFO: 02/09/22 12:32:12         pid:55677 module:_internal [33mPress CTRL+C to quit[0m
+INFO: 02/09/22 12:32:12         pid:55677 module:_internal  * Restarting with stat
+WARNING: 02/09/22 12:32:12         pid:55682 module:_internal  * Debugger is active!
+INFO: 02/09/22 12:32:12         pid:55682 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 12:32:15         pid:55682 module:_internal 127.0.0.1 - - [02/Sep/2022 12:32:15] "GET /user HTTP/1.1" 200 -
+INFO: 02/09/22 12:33:10         pid:55682 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/routes/user.py', reloading
+INFO: 02/09/22 12:33:10         pid:55677 module:_internal  * Restarting with stat
+WARNING: 02/09/22 12:33:11         pid:55846 module:_internal  * Debugger is active!
+INFO: 02/09/22 12:33:11         pid:55846 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 12:33:16         pid:55882 module:_internal [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3303
+ * Running on http://192.168.43.48:3303
+INFO: 02/09/22 12:33:16         pid:55882 module:_internal [33mPress CTRL+C to quit[0m
+INFO: 02/09/22 12:33:16         pid:55882 module:_internal  * Restarting with stat
+WARNING: 02/09/22 12:33:17         pid:55884 module:_internal  * Debugger is active!
+INFO: 02/09/22 12:33:17         pid:55884 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 12:33:19         pid:55884 module:_internal 127.0.0.1 - - [02/Sep/2022 12:33:19] "GET /user HTTP/1.1" 200 -
+INFO: 02/09/22 12:33:49         pid:55884 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/routes/user.py', reloading
+INFO: 02/09/22 12:33:49         pid:55882 module:_internal  * Restarting with stat
+WARNING: 02/09/22 12:33:50         pid:55986 module:_internal  * Debugger is active!
+INFO: 02/09/22 12:33:50         pid:55986 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 12:34:09         pid:55986 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/resources/user.py', reloading
+INFO: 02/09/22 12:34:09         pid:55882 module:_internal  * Restarting with stat
+WARNING: 02/09/22 12:34:10         pid:56051 module:_internal  * Debugger is active!
+INFO: 02/09/22 12:34:10         pid:56051 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 12:34:18         pid:56051 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/routes/user.py', reloading
+INFO: 02/09/22 12:34:18         pid:55882 module:_internal  * Restarting with stat
+WARNING: 02/09/22 12:34:18         pid:56087 module:_internal  * Debugger is active!
+INFO: 02/09/22 12:34:18         pid:56087 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 12:36:08         pid:56087 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/resources/user.py', reloading
+INFO: 02/09/22 12:36:08         pid:55882 module:_internal  * Restarting with stat
+WARNING: 02/09/22 12:36:09         pid:56388 module:_internal  * Debugger is active!
+INFO: 02/09/22 12:36:09         pid:56388 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 12:36:24         pid:56388 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/resources/user.py', reloading
+INFO: 02/09/22 12:36:24         pid:55882 module:_internal  * Restarting with stat
+WARNING: 02/09/22 12:36:24         pid:56440 module:_internal  * Debugger is active!
+INFO: 02/09/22 12:36:24         pid:56440 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 12:37:03         pid:56440 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/routes/user.py', reloading
+INFO: 02/09/22 12:37:03         pid:55882 module:_internal  * Restarting with stat
+WARNING: 02/09/22 12:37:03         pid:56550 module:_internal  * Debugger is active!
+INFO: 02/09/22 12:37:03         pid:56550 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 12:37:24         pid:56550 module:_internal 127.0.0.1 - - [02/Sep/2022 12:37:24] "GET /user HTTP/1.1" 200 -
+INFO: 02/09/22 12:37:51         pid:56550 module:_internal 127.0.0.1 - - [02/Sep/2022 12:37:51] "[35m[1mGET /user/Umeh HTTP/1.1[0m" 500 -
+INFO: 02/09/22 12:38:32         pid:56798 module:_internal [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3303
+ * Running on http://192.168.43.48:3303
+INFO: 02/09/22 12:38:32         pid:56798 module:_internal [33mPress CTRL+C to quit[0m
+INFO: 02/09/22 12:38:32         pid:56798 module:_internal  * Restarting with stat
+WARNING: 02/09/22 12:38:32         pid:56802 module:_internal  * Debugger is active!
+INFO: 02/09/22 12:38:32         pid:56802 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 12:38:35         pid:56802 module:_internal 127.0.0.1 - - [02/Sep/2022 12:38:35] "[35m[1mGET /user/Umeh HTTP/1.1[0m" 500 -
+INFO: 02/09/22 12:39:45         pid:56802 module:_internal 127.0.0.1 - - [02/Sep/2022 12:39:45] "[33mGET /user/ HTTP/1.1[0m" 404 -
+INFO: 02/09/22 12:39:55         pid:56802 module:_internal 127.0.0.1 - - [02/Sep/2022 12:39:55] "GET /user HTTP/1.1" 200 -
+INFO: 02/09/22 12:40:45         pid:56802 module:_internal 127.0.0.1 - - [02/Sep/2022 12:40:45] "POST /user HTTP/1.1" 200 -
+INFO: 02/09/22 12:41:22         pid:56802 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/repositories/user.py', reloading
+INFO: 02/09/22 12:41:22         pid:56798 module:_internal  * Restarting with stat
+WARNING: 02/09/22 12:41:22         pid:57234 module:_internal  * Debugger is active!
+INFO: 02/09/22 12:41:22         pid:57234 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 12:41:27         pid:57234 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/repositories/user.py', reloading
+INFO: 02/09/22 12:41:28         pid:56798 module:_internal  * Restarting with stat
+WARNING: 02/09/22 12:41:28         pid:57254 module:_internal  * Debugger is active!
+INFO: 02/09/22 12:41:28         pid:57254 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 12:41:37         pid:57254 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/repositories/user.py', reloading
+INFO: 02/09/22 12:41:37         pid:56798 module:_internal  * Restarting with stat
+WARNING: 02/09/22 12:41:38         pid:57288 module:_internal  * Debugger is active!
+INFO: 02/09/22 12:41:38         pid:57288 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 12:41:41         pid:57288 module:_internal 127.0.0.1 - - [02/Sep/2022 12:41:41] "[35m[1mPOST /user HTTP/1.1[0m" 500 -
+INFO: 02/09/22 12:41:49         pid:57288 module:_internal 127.0.0.1 - - [02/Sep/2022 12:41:49] "GET /user/Umeh HTTP/1.1" 200 -
+INFO: 02/09/22 12:42:08         pid:57288 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/repositories/user.py', reloading
+INFO: 02/09/22 12:42:08         pid:56798 module:_internal  * Restarting with stat
+WARNING: 02/09/22 12:42:09         pid:57382 module:_internal  * Debugger is active!
+INFO: 02/09/22 12:42:09         pid:57382 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 12:42:09         pid:57382 module:_internal 127.0.0.1 - - [02/Sep/2022 12:42:09] "GET /user/Umeh HTTP/1.1" 200 -
+INFO: 02/09/22 12:44:33         pid:57382 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/routes/product.py', reloading
+INFO: 02/09/22 12:44:33         pid:56798 module:_internal  * Restarting with stat
+WARNING: 02/09/22 12:44:33         pid:57774 module:_internal  * Debugger is active!
+INFO: 02/09/22 12:44:33         pid:57774 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 12:45:25         pid:57774 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/routes/__init__.py', reloading
+INFO: 02/09/22 12:45:25         pid:56798 module:_internal  * Restarting with stat
+ERROR: 02/09/22 13:12:30         pid:62690 module:__init__ Error: Path doesn't exist: '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/migrations'.  Please use the 'init' command to create a new scripts folder.
+INFO: 02/09/22 13:19:39         pid:63973 module:_internal [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3303
+ * Running on http://192.168.43.48:3303
+INFO: 02/09/22 13:19:39         pid:63973 module:_internal [33mPress CTRL+C to quit[0m
+INFO: 02/09/22 13:19:39         pid:63973 module:_internal  * Restarting with stat
+WARNING: 02/09/22 13:19:40         pid:63974 module:_internal  * Debugger is active!
+INFO: 02/09/22 13:19:40         pid:63974 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 13:19:51         pid:63974 module:_internal 127.0.0.1 - - [02/Sep/2022 13:19:51] "POST /user HTTP/1.1" 200 -
+INFO: 02/09/22 13:21:26         pid:63974 module:_internal 127.0.0.1 - - [02/Sep/2022 13:21:26] "[35m[1mPOST /product HTTP/1.1[0m" 500 -
+INFO: 02/09/22 13:22:45         pid:63974 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/repositories/product.py', reloading
+INFO: 02/09/22 13:22:46         pid:63973 module:_internal  * Restarting with stat
+WARNING: 02/09/22 13:22:46         pid:64474 module:_internal  * Debugger is active!
+INFO: 02/09/22 13:22:46         pid:64474 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 13:23:11         pid:64474 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/models/product.py', reloading
+INFO: 02/09/22 13:23:12         pid:63973 module:_internal  * Restarting with stat
+WARNING: 02/09/22 13:23:12         pid:64555 module:_internal  * Debugger is active!
+INFO: 02/09/22 13:23:12         pid:64555 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 13:23:44         pid:64555 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/repositories/product.py', reloading
+INFO: 02/09/22 13:23:44         pid:63973 module:_internal  * Restarting with stat
+WARNING: 02/09/22 13:23:44         pid:64651 module:_internal  * Debugger is active!
+INFO: 02/09/22 13:23:44         pid:64651 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 13:24:14         pid:64651 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/repositories/product.py', reloading
+INFO: 02/09/22 13:24:14         pid:63973 module:_internal  * Restarting with stat
+WARNING: 02/09/22 13:24:14         pid:64737 module:_internal  * Debugger is active!
+INFO: 02/09/22 13:24:14         pid:64737 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 13:26:28         pid:64737 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/resources/product.py', reloading
+INFO: 02/09/22 13:26:28         pid:63973 module:_internal  * Restarting with stat
+WARNING: 02/09/22 13:26:29         pid:65077 module:_internal  * Debugger is active!
+INFO: 02/09/22 13:26:29         pid:65077 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 13:27:43         pid:65316 module:_internal [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3303
+ * Running on http://192.168.43.48:3303
+INFO: 02/09/22 13:27:43         pid:65316 module:_internal [33mPress CTRL+C to quit[0m
+INFO: 02/09/22 13:27:43         pid:65316 module:_internal  * Restarting with stat
+WARNING: 02/09/22 13:27:44         pid:65319 module:_internal  * Debugger is active!
+INFO: 02/09/22 13:27:44         pid:65319 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 13:27:56         pid:65319 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/server.py', reloading
+INFO: 02/09/22 13:27:56         pid:65316 module:_internal  * Restarting with stat
+WARNING: 02/09/22 13:27:57         pid:65359 module:_internal  * Debugger is active!
+INFO: 02/09/22 13:27:57         pid:65359 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 13:28:06         pid:65413 module:_internal [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3303
+ * Running on http://192.168.43.48:3303
+INFO: 02/09/22 13:28:06         pid:65413 module:_internal [33mPress CTRL+C to quit[0m
+INFO: 02/09/22 13:28:06         pid:65413 module:_internal  * Restarting with stat
+WARNING: 02/09/22 13:28:07         pid:65415 module:_internal  * Debugger is active!
+INFO: 02/09/22 13:28:07         pid:65415 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 13:28:24         pid:65415 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/server.py', reloading
+INFO: 02/09/22 13:28:24         pid:65413 module:_internal  * Restarting with stat
+WARNING: 02/09/22 13:28:25         pid:65472 module:_internal  * Debugger is active!
+INFO: 02/09/22 13:28:25         pid:65472 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 13:29:56         pid:65825 module:_internal [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3303
+ * Running on http://192.168.43.48:3303
+INFO: 02/09/22 13:29:56         pid:65825 module:_internal [33mPress CTRL+C to quit[0m
+INFO: 02/09/22 13:29:56         pid:65825 module:_internal  * Restarting with stat
+WARNING: 02/09/22 13:29:57         pid:65827 module:_internal  * Debugger is active!
+INFO: 02/09/22 13:29:57         pid:65827 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 13:30:26         pid:65827 module:_internal 127.0.0.1 - - [02/Sep/2022 13:30:26] "POST /product HTTP/1.1" 200 -
+INFO: 02/09/22 13:30:39         pid:65827 module:_internal 127.0.0.1 - - [02/Sep/2022 13:30:39] "GET /product HTTP/1.1" 200 -
+INFO: 02/09/22 13:30:51         pid:65827 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/resources/product.py', reloading
+INFO: 02/09/22 13:30:51         pid:65825 module:_internal  * Restarting with stat
+WARNING: 02/09/22 13:30:51         pid:65983 module:_internal  * Debugger is active!
+INFO: 02/09/22 13:30:51         pid:65983 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 13:31:22         pid:65983 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/resources/product.py', reloading
+INFO: 02/09/22 13:31:22         pid:65825 module:_internal  * Restarting with stat
+WARNING: 02/09/22 13:31:22         pid:66071 module:_internal  * Debugger is active!
+INFO: 02/09/22 13:31:22         pid:66071 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 13:31:55         pid:66071 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/resources/user.py', reloading
+INFO: 02/09/22 13:31:55         pid:65825 module:_internal  * Restarting with stat
+WARNING: 02/09/22 13:31:55         pid:66166 module:_internal  * Debugger is active!
+INFO: 02/09/22 13:31:55         pid:66166 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 13:32:10         pid:66166 module:_internal 127.0.0.1 - - [02/Sep/2022 13:32:10] "GET /product HTTP/1.1" 200 -
+INFO: 02/09/22 13:35:33         pid:66166 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/config.py', reloading
+INFO: 02/09/22 13:35:34         pid:65825 module:_internal  * Restarting with stat
+WARNING: 02/09/22 13:35:34         pid:66745 module:_internal  * Debugger is active!
+INFO: 02/09/22 13:35:34         pid:66745 module:_internal  * Debugger PIN: 336-012-120
+INFO: 02/09/22 13:36:01         pid:66745 module:_internal  * Detected change in '/Users/maryb/Projects/udacity/gomerce/gomerce_backend/src/config.py', reloading
+INFO: 02/09/22 13:36:02         pid:65825 module:_internal  * Restarting with stat
+WARNING: 02/09/22 13:36:02         pid:66843 module:_internal  * Debugger is active!
+INFO: 02/09/22 13:36:02         pid:66843 module:_internal  * Debugger PIN: 336-012-120

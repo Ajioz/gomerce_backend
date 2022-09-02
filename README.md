@@ -25,18 +25,40 @@ PostgreSQL 13.* or higher - recommended
 
 How to setup a python virtual environment
 
-- Create the virtual environment, `python -m venv .venv`
+- Create the virtual environment,
+
+  ```
+  python -m venv .venv
+  ```
+
 - Activate the virtual environment
-  - for windows `.venv\Scripts\activate`
-  - for Linux / macOS `source .venv/bin/activate`
-- Deactivate the virtual environment when you need to, `deactivate`
+  - for windows
+  ```
+  .venv\Scripts\activate
+  ```
+  - for Linux / macOS
+  ```
+  source .venv/bin/activate
+  ```
+- Deactivate the virtual environment when you need to,
+
+  ```
+  deactivate
+  ```
 
 ## Install requirements
 
 For local development
-`pip install -r requirements.txt`
+
+```
+pip install -r requirements.txt
+```
+
 For production
-`pip install -r requirements-prod.txt`
+
+```
+pip install -r requirements-prod.txt
+```
 
 ## Set environment variables
 
@@ -55,4 +77,54 @@ createdb gomerce
 createdb gomerce-test
 ```
 
-### Create database tables from migrations
+### Export your flask app
+
+In order to run your migrations and app using the `flask` command, expose your flask app:
+
+- for Linux / macOS
+
+```
+export FLASK_APP=src/server.py
+```
+
+- for windows
+  - On CMD
+  ```
+  SET FLASK_APP=src/server.py
+  ```
+  - On BASH
+  ```
+  export FLASK_APP=src/server.py
+  ```
+  - On POWERSHELL
+  ```
+  $env:FLASK_APP=src/server.py
+  ```
+
+### **Create database tables from migrations**
+
+To add the existing database schema and dummy data to your datebase, run:
+
+```
+flask db upgrade
+```
+
+Make your database changes accessible to others using migrations
+
+```
+flask db migrate
+```
+
+### **Run server application**
+
+From the root folder, run
+
+```
+python src/server.py
+```
+
+The application will run at the specified port `APPLICATION_PORT` in `.env` file
+
+The local URL to access the API should be `http://localhost:3303`
+
+You can visit the Products URL to test the application at `http://localhost:3303/products`
