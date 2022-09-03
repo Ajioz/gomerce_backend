@@ -2,8 +2,8 @@
 
 <!-- prettier-ignore-start -->
 
-- [MaryBlessing Umeh](https://github.com/marybngozi)
 - [Ajiroghene Sunday](https://github.com/Ajioz)
+- [MaryBlessing Umeh](https://github.com/marybngozi)
 - [Ebenezer Nuamah](https://github.com/EbenezerNu)
 - [sylroyalle](https://github.com/Vanusquarm)
 - [Queens Kisivuli](https://github.com/queensk)
