@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Ajiroghene Sunday](https://github.com/Ajioz)
+- [Nestor Abiangang](https://github.com/martourez21)
 - [MaryBlessing Umeh](https://github.com/marybngozi)
 - [Joseph Ogwuche](https://github.com/joew2k)
 - [Doghor Samuel](https://github.com/samdoghor)
