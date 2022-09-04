@@ -1,11 +1,12 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-- [Raymond Nartey](https://github.com/ray-nart)
 
+- [Raymond Nartey](https://github.com/ray-nart)
 - [Ajiroghene Sunday](https://github.com/Ajioz)
 - [Nestor Abiangang](https://github.com/martourez21)
 - [MaryBlessing Umeh](https://github.com/marybngozi)
+- [Timilehin Aliyu](https://github.com/TangoIndiaMango)
 - [Iniobong Benson](https://github.com/linibensonjr)
 - [Oluwatobi Odekunle](https://github.com/tee-code)
 - [Onyekachi Jasper-Duruzor](https://github.com/kachi-jasperD)
