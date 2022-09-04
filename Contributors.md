@@ -4,6 +4,7 @@
 
 - [Ajiroghene Sunday](https://github.com/Ajioz)
 - [MaryBlessing Umeh](https://github.com/marybngozi)
+- [Joseph Ogwuche](https://github.com/joew2k)
 - [Doghor Samuel](https://github.com/samdoghor)
 - [Ebenezer Nuamah](https://github.com/EbenezerNu)
 - [sylroyalle](https://github.com/Vanusquarm)
