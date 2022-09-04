@@ -2,7 +2,6 @@
 
 <!-- prettier-ignore-start -->
 
-- [Raymond Nartey](https://github.com/ray-nart)
 - [Ajiroghene Sunday](https://github.com/Ajioz)
 - [Nestor Abiangang](https://github.com/martourez21)
 - [MaryBlessing Umeh](https://github.com/marybngozi)
@@ -30,3 +29,4 @@
 - [Daud Olarewaju](https://github.com/Daud94)
 - [Nestor Abiangang](https://github.com/martourez21)
 - [Vanessa Mwaniki](https://github.com/vanessamwaniki)
+- [Raymond Nartey](https://github.com/ray-nart)
