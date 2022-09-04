@@ -3,7 +3,6 @@
 <!-- prettier-ignore-start -->
 
 - [Ajiroghene Sunday](https://github.com/Ajioz)
-- [Nestor Abiangang](https://github.com/martourez21)
 - [MaryBlessing Umeh](https://github.com/marybngozi)
 - [Timilehin Aliyu](https://github.com/TangoIndiaMango)
 - [Iniobong Benson](https://github.com/linibensonjr)
@@ -30,3 +29,4 @@
 - [Nestor Abiangang](https://github.com/martourez21)
 - [Vanessa Mwaniki](https://github.com/vanessamwaniki)
 - [Raymond Nartey](https://github.com/ray-nart)
+- [Nestor Abiangang](https://github.com/martourez21)
