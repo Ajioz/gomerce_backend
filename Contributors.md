@@ -15,6 +15,7 @@
 - [Doghor Samuel](https://github.com/samdoghor)
 - [Ebenezer Nuamah](https://github.com/EbenezerNu)
 - [sylroyalle](https://github.com/Vanusquarm)
+- [Hassan Yahya](https://github.com/dmdhassan)
 - [Queens Kisivuli](https://github.com/queensk)
 - [Kalu Chinonso](https://github.com/tripletens)
 - [Tapiwa](https://github.com/deltaCS99)
