@@ -5,6 +5,7 @@
 - [Ajiroghene Sunday](https://github.com/Ajioz)
 - [Nestor Abiangang](https://github.com/martourez21)
 - [MaryBlessing Umeh](https://github.com/marybngozi)
+- [Oluwatobi Odekunle](https://github.com/tee-code)
 - [Onyekachi Jasper-Duruzor](https://github.com/kachi-jasperD)
 - [Ebuka Obiora](https://github.com/oEbuka)
 - [Chinonso Kalu](https://github.com/tripletens)
