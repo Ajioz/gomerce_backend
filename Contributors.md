@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Raymond Nartey](https://github.com/ray-nart)
 
 - [Ajiroghene Sunday](https://github.com/Ajioz)
 - [Nestor Abiangang](https://github.com/martourez21)
