@@ -9,6 +9,7 @@
 - [Oluwatobi Odekunle](https://github.com/tee-code)
 - [Onyekachi Jasper-Duruzor](https://github.com/kachi-jasperD)
 - [Ebuka Obiora](https://github.com/oEbuka)
+- [John Ajayi](https://github.com/realJohnAdex)
 - [Chinonso Kalu](https://github.com/tripletens)
 - [Clinton Mekwunye](https://github.com/clintonMF)
 - [Joseph Ogwuche](https://github.com/joew2k)
