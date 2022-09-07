@@ -13,6 +13,7 @@
 - [Clinton Mekwunye](https://github.com/clintonMF)
 - [Joseph Ogwuche](https://github.com/joew2k)
 - [Doghor Samuel](https://github.com/samdoghor)
+- [Abednego Aginam](https://github.com/Abednego-py)
 - [Ebenezer Nuamah](https://github.com/EbenezerNu)
 - [sylroyalle](https://github.com/Vanusquarm)
 - [Queens Kisivuli](https://github.com/queensk)
