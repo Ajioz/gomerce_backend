@@ -1,6 +1,6 @@
 ## Flask API Server
 
-e-commerce [gommerce](https://github.com/Ajioz/gomerce_backend.git) enhanced with JWT authentication, SqlAlchemy, **SQLite** persistence and deployment scripts via Docker. It has all the ready-to-use bare minimum essentials.
+e-commerce [gomerce](https://github.com/Ajioz/gomerce_backend.git) enhanced with JWT authentication, SqlAlchemy, **SQLite** persistence and deployment scripts via Docker. It has all the ready-to-use bare minimum essentials.
 
 <br />
 
@@ -176,5 +176,13 @@ authorization: JWT_TOKEN (returned by Login request)
 Run tests using `pytest tests.py`
 
 <br />
+
+
+## ✨ Contributors
+> The Gomerce project won't be complete without these backend developers: <br /> 
+<img src="https://img.shields.io/github/contributors/ajioz/gomerce_backend?style=plastic" alt="Contributors" /> <br />
+<a href="https://github.com/Ajioz/gomerce_backend/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Ajioz/gomerce_backend" />
+</a>
 
 ---
