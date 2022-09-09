@@ -30,3 +30,4 @@
 - [Vanessa Mwaniki](https://github.com/vanessamwaniki)
 - [Raymond Nartey](https://github.com/ray-nart)
 - [Nestor Abiangang](https://github.com/martourez21)
+- [Aaron Ben-elijah](https://github.com/aaronben41)
